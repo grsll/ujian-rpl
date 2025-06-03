@@ -1,16 +1,9 @@
-# ujian_rakryan
+Halaman Login
+![Screenshot from 2025-06-03 10-28-02](https://github.com/user-attachments/assets/6f65faf6-0edf-468f-9bc8-56fa4af48c30)
 
-A new Flutter project.
+Halaman Home
+![image](https://github.com/user-attachments/assets/5066c10b-2738-4f70-968d-6f5ae6a51974)
 
-## Getting Started
+Halaman Detail Resep
+![image](https://github.com/user-attachments/assets/f4ac1efa-0f3b-4515-b887-0be2d657f4c2)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
